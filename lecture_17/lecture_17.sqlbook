@@ -37,6 +37,8 @@ CREATE DATABASE us_congress;
 CREATE SCHEMA bills;
 
 CREATE SCHEMA members;
+
+CREATE SCHEMA actions;
 -- SQLBook: Markup
 <font size = "5">
 
