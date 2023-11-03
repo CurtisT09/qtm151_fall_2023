@@ -6,15 +6,16 @@
 <font size = "5">
 Print your name below
 -- SQLBook: Code
--- Write your own code
-
+-- Active: 1698608424762@@127.0.0.1@5432@postgres
+-- Curtis
 -- SQLBook: Markup
 <font size = "5">
 
 (a) Create a new SQL database called formula1
 -- SQLBook: Code
+-- Active: 1698608424762@@127.0.0.1@5432@postgres
 -- Write your own code
-
+CREATE DATABASE formula1;
 -- SQLBook: Markup
 
 <font size = "5">
@@ -38,6 +39,8 @@ HINTS:
 - We did not create any schemas 
 
 - You do not need to use the ```connect_args``` option if you are not specifying a schema!
+
+-- SQLBook: Code
 
 -- SQLBook: Markup
 <font size = "5">
